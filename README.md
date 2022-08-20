@@ -1,2 +1,3 @@
-# Meus Projetos
- Teste Curso de GitHub
+# Olá, Mundo!
+ Primeiro repositorio criado durante o curso de GITHUB
+ 
